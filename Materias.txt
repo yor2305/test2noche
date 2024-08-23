@@ -5,3 +5,5 @@ Aplicaciones Web
 Electiva1
 Hardware 1
 Ing.software
+IA
+Algoritmos
