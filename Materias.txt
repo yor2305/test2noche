@@ -2,3 +2,6 @@ POO 1
 POO2
 Base de Datos
 Aplicaciones Web
+Electiva1
+Hardware 1
+Ing.software
